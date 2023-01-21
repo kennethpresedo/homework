@@ -1,0 +1,2 @@
+# Counters That Count Seperatly 
+The handleClick and myButton are functions that start with a value of 0. Every click increases counter by 1.  Both are stored in App.js and use React. The myApp() sets the H1 and calls both buttons to render on screen.
